@@ -1,0 +1,44 @@
+/* 
+#ffdada
+#dbf6e9
+#9ddfd3
+#31326f */
+
+body {
+    font-family: Montserrat, sans-serif;
+}
+
+/* Title */
+
+#title {
+    background-color: #f5fff9;
+    color: #31326f;
+}
+
+.navbar {
+    margin: 0 10% 0 10%;
+    color: red;
+}
+
+.navbar .navbar-brand, .navbar .nav-item .nav-link {
+    color: #31326f;
+}
+
+
+.nav-item {
+    padding: 0 10px;
+}
+
+.title-div {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.profile-photo {
+    width: 150px;
+}
+
+.container-fluid {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
