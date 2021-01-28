@@ -1,1 +1,1 @@
-# makovkyi_blog
+# makovskyi_blog
